@@ -47,3 +47,8 @@ input, select, textarea {
     border: none;
     margin-top: 5px;
 }
+
+.input-radio, .input-checkbox {
+    width: auto;
+    margin-right: 10px;
+}
