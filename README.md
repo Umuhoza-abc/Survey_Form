@@ -1,0 +1,2 @@
+## Responsive Survey Form
+A modern, responsive survey form created as part of the freeCodeCamp Responsive Web Design certification course. This project showcases the use of semantic HTML5, form validation, and custom CSS styles, including Glassmorphism effects and flexbox layouts.
